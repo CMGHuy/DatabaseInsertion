@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PushBlob:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PushBlob_jar</output-path>
+    <root id="archive" name="PushBlob.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="PushBlob" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/8.0.19/mysql-connector-java-8.0.19.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/oracle/ojdbc6/11.2.0.4/ojdbc6-11.2.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-cli/commons-cli/1.4/commons-cli-1.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
